@@ -15,7 +15,7 @@
 }],
   "resources": [
     {
-      "path": "focsivbilanci.csv",
+      "path": "focsiv_bilanci.csv",
       "format":"csv",
       "encoding":"UTF-8",
       "mediatype":"text/csv",
@@ -239,7 +239,7 @@
       }
     },
     {
-      "path": "focsivong.csv",
+      "path": "focsiv_ong.csv",
     "format":"csv",
       "encoding":"UTF-8",
       "mediatype":"text/csv",
@@ -1036,7 +1036,7 @@
       }
     },
     {
-      "path": "focsivprogetti.csv",
+      "path": "focsiv_progetti.csv",
       "format":"csv",
       "encoding":"UTF-8",
       "mediatype":"text/csv",
