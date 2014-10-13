@@ -243,7 +243,7 @@
     "format":"csv",
       "encoding":"UTF-8",
       "mediatype":"text/csv",
-      "name":"organizzazioni",
+      "name":"anagrafica",
       "schema": {
         "fields": [
           {
