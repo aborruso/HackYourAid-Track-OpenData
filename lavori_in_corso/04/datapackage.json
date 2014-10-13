@@ -1,8 +1,25 @@
 {
   "name": "anagrafica-focsiv",
+  "description":"FOCSIV &egrave; la più grande Federazione di Organismi di Volontariato Internazionale presente in Italia. Questo dataset contieni i dati anagrafici, i bilanci e i progetti delle Organizzazioni iscritte.",
+  "licenses": [
+{
+"id": "CC BY 4.0",
+"name": "CC BY 4.0",
+"version": "4",
+"url": "http://creativecommons.org/licenses/by/4.0/"
+}
+],
+"sources": [{
+  "name": "FOCSIV",
+  "web": "http://www.focsiv.it/"
+}],
   "resources": [
     {
       "path": "focsivbilanci.csv",
+      "format":"csv",
+      "encoding":"UTF-8",
+      "mediatype":"text/csv",
+      "name":"bilanci",
       "schema": {
         "fields": [
           {
@@ -223,6 +240,10 @@
     },
     {
       "path": "focsivong.csv",
+    "format":"csv",
+      "encoding":"UTF-8",
+      "mediatype":"text/csv",
+      "name":"organizzazioni",
       "schema": {
         "fields": [
           {
@@ -1016,6 +1037,10 @@
     },
     {
       "path": "focsivprogetti.csv",
+      "format":"csv",
+      "encoding":"UTF-8",
+      "mediatype":"text/csv",
+      "name":"progetti",
       "schema": {
         "fields": [
           {
