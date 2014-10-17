@@ -174,12 +174,6 @@
                         "description": "Allergie: lista di allergie"
                     },
                     {
-                        "index": 19,
-                        "type": "string",
-                        "name": "JIMUELConsults::JMedicnickname",
-                        "description": "JIMUELConsults::Jmedicnickname: nickname del medico che prende in carico il caso."
-                    },
-                    {
                         "index": 20,
                         "type": "string",
                         "name": "JIMUELConsults::JMedicDiagnosis",
@@ -240,12 +234,6 @@
                         "type": "string",
                         "name": "ICD10_Report",
                         "description": "La ICD-10 - decima revisione della classificazione Internationa Classification of Disease proposta dall'OMS."
-                    },
-                    {
-                        "index": 30,
-                        "type": "string",
-                        "name": "MedicoResponsabile",
-                        "description": "Medico Responsabile: medico che ha preso in carico il consulto"
                     }
                 ]
             }
