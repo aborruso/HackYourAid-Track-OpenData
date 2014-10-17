@@ -1,7 +1,7 @@
 {
     "name": "Jimuel",
     "title": "Dataset Jimuel",
-    "description": "Raccolta dati clinici dei pazienti",
+    "description": "L'obiettivo del progetto Jimuel &egrave; quello di Fornire un servizio di assistenza medica remota (via internet) alle strutture di missione operanti sui territori dove i diritti più essenziali vengono sistematicamente negati, soprattutto ai bambini. Questo dataset rappresenta l'inizio di un percorso verso l'apertura dei dati del progetto.",
     "homepage": "http://www.jimuel.org/JIMUEL/Il_Progetto.html",
     "sources": [
         {
